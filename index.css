@@ -1,0 +1,13 @@
+nav {
+	background-image: linear-gradient(to left, #5cd7db, #63dade, #6adee1, #71e1e5, #78e5e8);
+	box-shadow: none;
+}
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
